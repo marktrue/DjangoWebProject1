@@ -44,3 +44,7 @@ Temporary Items
 *.pyc
 *.suo
 *.exe
+obj
+bin
+*.config
+DjangoWebProject1/db.sqlite3
